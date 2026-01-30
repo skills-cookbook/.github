@@ -1,6 +1,6 @@
 # 🤖 创建你的第一个智能体技能（`Agent Skills`）
 
-<img width="200" align="right" src="https://github.com/user-attachments/assets/11da6310-293e-455a-8da8-a5618b94efb9" />
+<img width="200" align="right" src="https://github.com/user-attachments/assets/9a3b2bbc-c6ec-4345-9468-b4765954c7fd" />
 
 使用智能体技能可以赋予 AI 工具新的能力和专业知识，并将其转化为可复用、可共享的工作流程。
 
